@@ -6,8 +6,7 @@
 # Discription:
 #
 # history
-# 2020/mm/dd create prototype
-# 2020/mm/dd add function
+# 2020/10/10 create prototype
 #
 ########################################################
 
