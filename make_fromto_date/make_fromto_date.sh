@@ -1,16 +1,18 @@
 #!/bin/bash
-###################################################################
+###########################################################
 # ScriptName: make_fromto_date.sh
 # Author: kawai8
 # 
-# Usage: ./make_fromto_date.sh <From(yyyy-mm-dd)> <To(yyyy-mm-dd)>
+# Usage:
+# ./make_fromto_date.sh <From(yyyy-mm-dd)> <To(yyyy-mm-dd)>
 #
-# Discription: Returns an array of the date range selected
+# Discription:
+# Returns an array of the date range selected
 #
 # History:
 # -2020/10/10 create prototype
 #
-###################################################################
+###########################################################
 
 ##----------------------------------
 ## Default settings
