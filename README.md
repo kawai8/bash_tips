@@ -1,8 +1,7 @@
-#### make_fromto_date
-##### Usage
+1. make_fromto_date
+   - Usage
 ```
-$ ./call_make_fromto_date.sh 2020-10-30 2020-11-01
-20201030  
-20201031  
-20201101  
+$ ./call_make_fromto_date.sh 2020-10-31 2020-11-01
+20201031
+20201101
 ```
