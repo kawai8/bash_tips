@@ -1,5 +1,5 @@
 ### :open_file_folder: make_fromto_date
-Returns an array of the date range selected
+Return an array of the date range selected
 ```
 Usage
 $ ./call_make_fromto_date.sh 2020-10-31 2020-11-01
