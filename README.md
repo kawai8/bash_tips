@@ -1,4 +1,4 @@
-### :open_file_folder: make_fromto_date
+#### :open_file_folder: make_fromto_date
 Return an array of the date range selected
 ```
 Usage
