@@ -6,7 +6,6 @@ ITEMS_A=(
 "pine apple","200","5" #<-word including space charactor
 "orange","150","10"
 )
-
 ITEMS_B=(
 "blueberry","50","100"
 "strawberry","300","8"
