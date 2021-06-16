@@ -14,3 +14,5 @@ $ ./call_make_fromto_date.sh 2020-10-31 2020-11-01
 :page_facing_up:if_and.sh
 
 :page_facing_up:if_or.sh
+
+:page_facing_up:getopts.sh
