@@ -4,7 +4,6 @@ var1="foo1"
 var2="foo2"
 var3="foo3"
 
-
 # method 1
 # use && operator
 # Expressions may be combined using "&&" operators
@@ -29,4 +28,3 @@ echo $result
 if [ "$var1" = "foo1" -a "$var2" = "foo2" ]; then
     echo "here"
 fi
-
