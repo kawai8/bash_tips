@@ -19,7 +19,6 @@ else
 fi
 echo $result
 
-
 # method 2
 # use test command option
 # expression1 -a expression2
@@ -28,3 +27,6 @@ echo $result
 if [ "$var1" = "foo1" -a "$var2" = "foo2" ]; then
     echo "here"
 fi
+
+
+
