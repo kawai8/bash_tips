@@ -21,6 +21,7 @@ else
 fi
 echo $result
 
+
 # method 2
 # use test command option
 # expression1 -o expression2
@@ -30,3 +31,13 @@ if [ "$var1" = "foo1" -o "$var2" = "foo2" ]; then
     echo "here"
 fi
 
+
+# Example
+if ([ "${var1}" = "foo" ] && [ "${var2}" = "1" ]) \
+  || ([ "${var1}" = "foo" ] && [ "${var2}" = "2" ]); then
+    echo "here" 
+fi
+
+if [ "${var1}" = "foo" -a "${var2}" = "1" ] || [ "${var1}" = "foo" -o "${var2}" = "2" ]; then
+    echo "here"
+fi
